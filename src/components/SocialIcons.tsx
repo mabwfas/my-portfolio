@@ -60,22 +60,22 @@ const SocialIcons = () => {
     <div className="icons-section">
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
-          <a href="https://github.com/axayvaghasiya" target="_blank">
+          <a href="https://github.com/mabwfas" target="_blank">
             <FaGithub />
           </a>
         </span>
         <span>
-          <a href="https://www.linkedin.com/in/akshayvaghasiya" target="_blank">
+          <a href="https://www.linkedin.com/in/shreyanshsingh" target="_blank">
             <FaLinkedinIn />
           </a>
         </span>
         <span>
-          <a href="https://x.com/akshay_codes" target="_blank">
+          <a href="https://x.com/shreyansh_singh" target="_blank">
             <FaXTwitter />
           </a>
         </span>
         <span>
-          <a href="https://www.instagram.com/akshayvaghasiya.codes" target="_blank">
+          <a href="https://www.instagram.com/shreyanshsingh.codes" target="_blank">
             <FaInstagram />
           </a>
         </span>

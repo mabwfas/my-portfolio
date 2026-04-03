@@ -12,7 +12,7 @@ type Partner = {
 };
 
 const partners: Partner[] = [
-  { name: "Shopify", logo: "/images/shopify_glyph.svg", url: "https://shopify.pxf.io/akshayvaghasiya" },
+  { name: "Shopify", logo: "/images/shopify_glyph.svg", url: "https://shopify.pxf.io/shreyanshsingh" },
   { name: "Recharge", logo: "/images/recharge-mark.svg", url: "https://partners.getrecharge.com/lavitastic-studio" },
   { name: "Appstle", logo: "/images/Appstle.jpeg", url: "https://subscription-admin.appstle.com/affiliates?fpr=akshay-vaghasiya25" },
 ];

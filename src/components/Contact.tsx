@@ -10,8 +10,8 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Email</h4>
             <p>
-              <a href="mailto:info@akshayvaghasiya.com" data-cursor="disable">
-                info@akshayvaghasiya.com
+              <a href="mailto:info@shreyanshsingh.com" data-cursor="disable">
+                info@shreyanshsingh.com
               </a>
             </p>
             <h4>Education</h4>
@@ -20,7 +20,7 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/axayvaghasiya"
+              href="https://github.com/mabwfas"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -28,7 +28,7 @@ const Contact = () => {
               Github <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/akshayvaghasiya"
+              href="https://www.linkedin.com/in/shreyanshsingh"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -36,7 +36,7 @@ const Contact = () => {
               LinkedIn <MdArrowOutward />
             </a>
             <a
-              href="https://x.com/akshay_codes"
+              href="https://x.com/shreyansh_singh"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -44,7 +44,7 @@ const Contact = () => {
               Twitter <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com/akshayvaghasiya.codes"
+              href="https://www.instagram.com/shreyanshsingh.codes"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -54,10 +54,10 @@ const Contact = () => {
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Akshay Vaghasiya</span>
+              Designed and Developed <br /> by <span>Shreyansh Singh</span>
             </h2>
             <h5>
-              <MdCopyright /> 2026 Akshay Vaghasiya. All rights reserved.
+              <MdCopyright /> 2026 Shreyansh Singh. All rights reserved.
             </h5>
           </div>
         </div>
