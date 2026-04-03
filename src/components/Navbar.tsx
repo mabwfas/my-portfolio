@@ -44,18 +44,18 @@ const Navbar = () => {
       <div className="header">
         <div className="navbar-logo-wrapper">
           <a href="/" className="navbar-title" data-cursor="disable">
-            AV
+            SS
           </a>
           <a href="https://www.shopify.com/partners/directory/partner/nipunyax" target="_blank" className="shopify-partner-logo" data-cursor="disable">
             <img src="/images/shopify-select-partner.svg" alt="Shopify Select Partner" />
           </a>
         </div>
         <a
-          href="mailto:info@shreyanshsingh.com"
+          href="mailto:realshreyanshsingh@gmail.com"
           className="navbar-connect"
           data-cursor="disable"
         >
-          info@shreyanshsingh.com
+          realshreyanshsingh@gmail.com
         </a>
         <ul>
           <li>

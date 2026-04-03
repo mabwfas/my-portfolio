@@ -5,40 +5,34 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "Makani Germany",
-    category: "Shopify Plus",
-    tools: "Shopify CLI, JavaScript, Node.js, Liquid, Remix, React, Lovable, Storefront API",
+    title: "NidhiPay",
+    category: "Flutter — Fintech App",
+    tools: "Flutter, Dart, Firebase, Razorpay SDK, ML Kit — 628K Downloads · ₹800 Cr+ Monthly GMV · 4.9★",
     image: "/images/Makani.avif",
   },
   {
-    title: "Bahe Shoes",
-    category: "Shopify",
-    tools: "Shopify CLI, JavaScript, Python, Node.js, Liquid, Klaviyo, GenAI",
+    title: "VitalSync",
+    category: "React Native — Health & Fitness",
+    tools: "React Native, HealthKit, Google Fit, Node.js, MongoDB — 1.52M Active Users · 15+ Wearables · 4.8★",
     image: "/images/Bahe.avif",
   },
   {
-    title: "ONWARD",
-    category: "Shopify Plus",
-    tools: "Liquid, JavaScript, HTML5, CSS3, Git, Jira, Figma, Klaviyo",
+    title: "LiveKart",
+    category: "Flutter — Live Commerce",
+    tools: "Flutter, WebRTC, Agora SDK, Firebase, Stripe — 50K+ Concurrent Viewers · <300ms Latency",
     image: "/images/onward.avif",
   },
   {
-    title: "TanandLoom",
-    category: "Shopify",
-    tools: "HTML5, CSS3, JavaScript, Liquid, Shopify CLI",
+    title: "StyleBazaar",
+    category: "Kotlin — AI Fashion App",
+    tools: "Kotlin, Jetpack Compose, TensorFlow Lite, Room DB, Retrofit — 340K Downloads · ARCore Try-On",
     image: "/images/tanandloom.avif",
   },
   {
-    title: "Feel Food",
-    category: "Shopify",
-    tools: "Liquid, JavaScript, HTML5, CSS3, Shopify CLI, Git, GitHub",
+    title: "DabbaRun",
+    category: "Flutter — Food Delivery",
+    tools: "Flutter, Google Maps SDK, Firebase, Razorpay, Node.js — 8 Indian Languages · 89K Monthly Orders",
     image: "/images/feelfood.avif",
-  },
-  {
-    title: "FOCL",
-    category: "Shopify Plus",
-    tools: "Liquid, JavaScript, HTML5, CSS3, Git, Jira",
-    image: "/images/focl.avif",
   },
 ];
 

@@ -10,12 +10,14 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Email</h4>
             <p>
-              <a href="mailto:info@shreyanshsingh.com" data-cursor="disable">
-                info@shreyanshsingh.com
+              <a href="mailto:realshreyanshsingh@gmail.com" data-cursor="disable">
+                realshreyanshsingh@gmail.com
               </a>
             </p>
+            <h4>Phone</h4>
+            <p>+91 88277 41992</p>
             <h4>Education</h4>
-            <p>MSc in Computer Science</p>
+            <p>B.Tech CS — JUET Guna (CGPA 9.2)</p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
@@ -36,20 +38,20 @@ const Contact = () => {
               LinkedIn <MdArrowOutward />
             </a>
             <a
+              href="https://www.youtube.com/@DigitalMarketingHeroes"
+              target="_blank"
+              data-cursor="disable"
+              className="contact-social"
+            >
+              YouTube (2.6M) <MdArrowOutward />
+            </a>
+            <a
               href="https://x.com/shreyansh_singh"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
             >
               Twitter <MdArrowOutward />
-            </a>
-            <a
-              href="https://www.instagram.com/shreyanshsingh.codes"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Instagram <MdArrowOutward />
             </a>
           </div>
           <div className="contact-box">
